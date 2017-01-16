@@ -144,6 +144,7 @@ nav a:hover {
 .main article footer {
     font-weight: 100;
     word-spacing: 8px;
+    margin-bottom: 30px;
 }
 .footer-container footer {
     color: white;
