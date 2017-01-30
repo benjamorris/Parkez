@@ -131,12 +131,14 @@ nav a:hover {
 
 .main article h1 {
     font-size: 4em;
+    color: #333;
 }
 .main article h2 {
     font-style: italic;
+    color: #333;
 }
 
-.main aside, .main .blue {
+.main .blue {
     color: white;
     padding: 5px 3% 22px;
     background: #4a90e2;
@@ -190,7 +192,12 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
-
+.main aside {
+    background: #333;
+    color: white;
+    padding: 5px 3% 22px;
+    margin-bottom: 10px;
+}
 
 
 
